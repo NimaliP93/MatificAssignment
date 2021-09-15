@@ -12,14 +12,12 @@ Run command to load data dump into database
 
 Users 
 
-|------------------------------------|
-|   username | password | group      |
-| -----------------------------------|
-|  admin     |  admin   |    Admin   |
-|  coach_jim |  123     |    Coach   |
-|  player1   |  123     |    Player  |
-|            |          |            |
---------------------------------------
+| username      | password      | group |
+| ------------- |:-------------:| -----:|
+| admin         | admin         | Admin |
+| coach_jim     | 123           | Coach |
+| player1       | 123           | Player|
+
 
 
 
